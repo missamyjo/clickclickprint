@@ -20,7 +20,7 @@ function draw() {
     text('CLICK! CLICK! CLICK!', 600, 110);
     fill(51, 153, 153)
         .textSize(16);
-    text('to make a protest poster', 500, 140);
+    text('to make a poster', 500, 140);
     fill(51, 153, 153)
         .textSize(16);
     text('with Miss Amy Jo!', 700, 150);
